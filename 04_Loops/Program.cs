@@ -45,21 +45,6 @@ namespace _04_Loops
 
             #region For Döngüsü ile Karar Yapıları
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             #endregion
 
 
